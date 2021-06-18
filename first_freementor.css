@@ -1,0 +1,55 @@
+.first{
+	font-size: 250%;
+	font-family: sans-serif;
+	margin: 5px;
+	color: hsl(0, 0%, 100%);
+	font-weight: 400,700;
+	text-align: left;
+	width:60%;
+}
+.num{
+	font-size: 150%;
+	font-family: sans-serif;
+	margin: 5px;
+	color: hsl(0, 0%, 100%);
+}
+.second,.tag{
+	font-size: 120%;
+	font-family: sans-serif;
+	color: hsl(0, 0%, 100%);
+	width:85%;
+	margin: 5px;
+	opacity: 0.6;
+	font-weight: 400,700;
+}
+.image{
+	width: 45%;
+	display:inline-block;
+	opacity: 0.6;
+	color-interpolation:hsl(277, 64%, 61%);
+	padding: 0% 0% 0% 1%;
+	position:relative;
+}
+.see{
+	width: 50%;
+	height:75%;
+	display:inline-block;
+	clear:left;
+	float:left;
+	padding: 2%;
+}
+.stat{
+	display:inline-block;
+	width:10%;
+	margin:5%;
+	text-align: center;
+}
+.total{
+	background-color: hsl(244, 38%, 16%);
+	opacity: 0.8;
+}
+body{
+	margin:6% 6%;
+	background-color:hsl(233, 47%, 7%);
+	visibility: scroll;
+}
